@@ -266,10 +266,4 @@ This RAG framework brings together **semantic, lexical, and contextual intellige
 
 ---
 
-**Authors:** Manish Chatla & Team (Pradyut Parida, Siddharth Jain and Pardheev)
-
-**Team Name:** SWAT_Genies
-
-**Hackathon:** Advanced RAG Challenge  
-
 **Tech Stack:** Python, Streamlit, ChromaDB, Gemini, Cohere, HuggingFace Transformers
