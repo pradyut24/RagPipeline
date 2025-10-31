@@ -1,0 +1,19 @@
+[
+    {
+      "question_id": 1,
+      "question": "Am I allowed to accept payments on my site while my Wix Payments account is still being verified?",
+      "answer": "You can start accepting payments on your site using [Wix Payments](https://support.wix.com/en/article/about-wix-payments) almost immediately.....",
+      "article_ids": [
+        "49d988fadbf11fa4685c847590078ff9394c2fe7566094f504f53ca4aca465"
+      ]
+    },
+    {
+      "question_id": 2,
+      "question": "I am looking to purchase the yearly premium plan for $17.00 which comes with a free domain for one year. However the voucher isn't appearing at checkout...",
+      "answer": "When you purchase a yearly premium....",
+      "article_ids": [
+        "49d988fadbf11fa4685c847590078ff9394c2fe7566094f504f53ca4aca465",
+        "AsD988fadbf11fa4685c847590078ff9394c2fe7566094f504f53ca4aca465"
+      ]
+    }
+  ]

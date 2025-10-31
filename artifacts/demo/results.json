@@ -1,0 +1,432 @@
+[
+  {
+    "question_id": 1,
+    "question": "Am I allowed to accept payments on my site while my Wix Payments account is still being verified?",
+    "answer": "Yes, you can begin accepting payments on your site through Wix Payments almost immediately, even while your account is still being verified. However, keep in mind that Wix needs to verify your identity before your account can be fully activated.",
+    "article_ids": [
+      "49d9e88fadbf11fa4e685c847590078ff9394c2fe7566094f504f53ca4aca465"
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "I'm looking to purchase the yearly premium plan for $17.00, which comes with a free domain for one year. However, the voucher isn�t appearing at checkout. Should I complete the purchase first for the voucher to become available for activation?",
+    "answer": "I can certainly help you with this question! According to the reference passage, when purchasing your domain, be sure that the domain voucher is applied in the summary section. You should see the voucher discount before you submit your purchase. So, to answer your question, no, do not complete the purchase first for the voucher to become available for activation.",
+    "article_ids": [
+      "06535db983ea0ffe0214af14497a1d158f279d92c92f211e87b8820aa95dbe43"
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "I�d like to know the cost of upgrading my email plan.",
+    "answer": "Okay, I can help you with that! The cost of a business email depends on a few things, especially the specific Google Workspace plan you choose. These business emails are separate from any Premium or Studio plans you might have.",
+    "article_ids": [
+      "de6e96935f0b3321cf29416ec164482247b5035f1d2e12b36e203be8126ca8b8",
+      "bb528ecfbf28534c702f7e30e97e1709741bb421299f376de6cb2bc8d8226fc4"
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "I want to know if the Wix store feature can be used to sell services, not just physical products.",
+    "answer": "Yes, the Wix Stores feature allows you to sell services as well as physical products, and digital products, so it can certainly handle that.",
+    "article_ids": [
+      "a513a215c1798f329293330cb5f5e975a18978954b5ee27d84441e029f900d51"
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "How can I apply discounts to my service prices when customers purchase a plan?",
+    "answer": "You sure can! To apply discounts to your service prices when customers purchase a plan, you can create discount coupons in your site's dashboard by going to Pricing Plans, then selecting Create a coupon under the More Actions icon. From there, you can choose to offer either a fixed monetary discount or a percentage discount, which clients can redeem at checkout. You can customize the coupon to apply to all your pricing plans or to specific ones, and also set the coupon to work for the first billing cycle, all billing cycles, or a custom number of billing cycles. This way, you have the flexibility to tailor your discounts to encourage more customers to purchase your plans.",
+    "article_ids": [
+      "6ac11c077e31c980c3de33be613fa8af2af6f78ed5da96ede5644a7195a1e866",
+      "8cc75fbcc571336d1ef1768e7727bd9d1e6c1333f22eeb5366232b9a1a066418",
+      "3407d197c71652bee58835ba148794a8be7e70cf9e25c599044b823c82db29fd"
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "I�m trying to reorder the items in a CMS collection on my Wix site, but the suggested steps didn�t work for me?",
+    "answer": "I am sorry that you are having trouble reordering the items in your CMS collection, but I can certainly guide you in how to do that! First, go to CMS in your site's dashboard, or click the CMS icon in your editor, then click \"Your Collections\". Then, click the relevant collection, and if you have multiple collection views, select the relevant collection view at the top. Next, here are a couple of options: To reorder fields, click Manage Fields, then click and drag the Reorder icons next to the fields to change their order. Or, to sort items in your collection, click Sort at the top of your collection, click + Add a Sort, click the Sort by drop-down and choose the field you want to sort, and select a sorting option under Select the order (e.g. A-Z, Low-High, Oldest-Newest). Lastly, if you are in Table layout, you can manually sort the items too by clicking and dragging the Reorder icon next to the relevant items to change their order.",
+    "article_ids": [
+      "163d579af227160c8072dc465c81d8edea4b507d7e8789078b680f88633aefab"
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "How can I sync the hotel app with my calendar�s iCal link so visitors can book available dates on my website?",
+    "answer": "To sync your hotel app with your calendar's iCal link, first locate your iCal URL, then go to your dashboard, click the Hotels tab, expand the Reservations tab, and select iCal. Next, click the Choose Type drop-down menu and select a room type, paste your iCal URL into the URL field, and if you have multiple room types, add a different iCal URL for each. Finally, click Save.",
+    "article_ids": [
+      "1481f2a9a43b6c969a4d394c2f55aeeac51445a8fbdbb1f33c0c29e7cff19803",
+      "bdcb95cf95836b146655fa214e21f1efbed7d11994679cba47d3b93230107c37",
+      "5f02fc2f8937d16a4d8cdca47da36ae34429e0b279fb0cc56af72e2d91991a28"
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "I�m trying to verify my domain with Google Workspace by adding a TXT record to my domain�s DNS settings. Since my domain is connected to Wix via pointing, what should I do next?",
+    "answer": "Since your domain is connected to Wix via pointing, it means your domain host is in control of your domain records; therefore, you should contact your domain host and ask them to add the TXT record on their end to verify your domain with Google Workspace.",
+    "article_ids": [
+      "bb528ecfbf28534c702f7e30e97e1709741bb421299f376de6cb2bc8d8226fc4",
+      "65806b123ff355cef16c8abe4301f1df982e2c3bddcd33b81ed446b92a79e336",
+      "db6a6c4be5c11fae531b4fdd546601bab6d4a26b669a8a7ea6063c62a045e9d4"
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "I no longer have access to my old email address to reset my password, but I do have a recovery phone number linked to my Wix account.",
+    "answer": "I can certainly help you with that! Since you have a recovery phone number linked to your Wix account, you can recover your account by going to the Wix Login page, then click \"Forgot Email?\", select \"Can't access my login email\", click \"Next\", enter the email address associated with your Wix account, click \"Next\", select \"Send me a code to my phone number ending with XXXX\" and click \"Next\", enter the one-time verification code sent to your phone, click \"Verify\", enter a new password and retype it, and click \"Save New Password.\" After you recover your account, be sure to change the email address of your account to one that you are able to access.",
+    "article_ids": [
+      "39158650c97235d1f9b98a71be41c5222ddb3ee3e497cfb1d10ef3bd0bc166cf"
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "I need to add funds to my Wix Payments account to process a refund. Can you explain how to do this?",
+    "answer": "I can certainly help you with that! If you need to issue a refund but don't have enough funds in your Wix Payments account, you'll need to add funds to cover the refund, so let's walk through the steps to do that, whether you're on a desktop or using the Wix app.\n\n**Desktop:**\n1.  Go to **Payments** in your site's dashboard.\n2.  Select the payment you want to refund.\n3.  Click **Refund**.\n4.  Enter the refund amount. You can also add a note if you like.\n5.  Click **Refund** and confirm by clicking **Yes, Refund**.\n6.  If you need to add funds, click **Add Funds & Complete Refund**.\n7.  Enter your credit or debit card details and click **Add Funds & Complete Refund**.\n\n**Wix App:**\n1.  Go to **Payments** in the Wix app.\n2.  Tap the payment to refund.\n3.  Tap **Refund**.\n4.  If you want to add a note, tap the Note icon, add your note, and tap **Save**.\n5.  Enter the refund amount and tap **Issue Refund**.\n6.  Tap **Issue Refund** to confirm.\n7.  If you need to add funds, tap **Add Funds & Complete Refund**.\n8.  Enter the amount to add and tap **Continue**.\n9.  Enter your payment details and tap **Add Funds**.\n\nAfter the funds are processed, the refund will automatically be issued to your customer, and it may take 3-5 business days for the refund to appear on their statement. Also, keep in mind that if you need to add more than $20,000 to your account, you'll need to contact Wix Customer Care for assistance!",
+    "article_ids": [
+      "8cb92704d3a87aa92be4860f006c3f7a959143b5f8cf4f962940508288b0dc04",
+      "db8689fb79cbb114d40d38ef89019ee4ee0498e18d25fcd9d53fc2fa42a27f80",
+      "c8a54de5b540e9832be6e6468b5e498d532df9ea6af16ae83fcdcd15647e4c73"
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "I need to change my domain name to one that doesn�t include �DBT� due to legal reasons.",
+    "answer": "Unfortunately, you cannot edit a domain name once it has been purchased, so the only way to change the domain name is to register a new one. To avoid being charged for another year, it is recommended that you turn off the auto renewal option for the incorrect domain.",
+    "article_ids": [
+      "caa8c4985acb151b210db3cf155fab9318119c9bf80eaef6ad5c1cd971e675ae",
+      "5097c7944bbd290a11bf9dbf7624d475139d109ed0b33bc0449f53e8583be1f3",
+      "add129d0bc54006961811dd5065b2a69281974d794e372f68bc07c93696113dd"
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "How long does it take for my products to appear in a Wix Google Ads campaign?",
+    "answer": "After you list your products on Google Merchant Solutions, it can take up to 72 hours for Google to approve them, so you will need to wait until they are approved before launching your campaign.",
+    "article_ids": [
+      "0a229edfd466b96f849627494fb95e837c7c603cb7fdc5faeadef815a4d24804",
+      "035b36b995402d769a3117eb0ad63257a662e2eeef678b16ba740925985e7ef8"
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "I need to find out how to rearrange the order of my products.",
+    "answer": "To rearrange the order of your products, navigate to the Categories tab in your site's dashboard. Then, select the category you want to reorder, and simply click and drag the products to your desired order, and click Save. Also, if you're using the Category Page, you can override this order by clicking the Category Page in your editor, clicking Settings, and selecting the Sorting tab to choose a different order.",
+    "article_ids": [
+      "e4b87cd9f38d652e0a018619be5ab7f6065f07e1bd2556d629fb34e693feff91",
+      "b254fcee6b0ae875da5b74071a0d306ab6eabd8ec17634d257638716fb529809"
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "I need to find out if additional information is required to complete the Wix payment verification for my individual account.",
+    "answer": "To ensure your Wix Payments account verification is complete for your individual account, it's important to double-check that you've accurately entered your personal information, ensuring that your first, middle, and last names, as well as your date of birth, match what is listed on your photo ID, and also, verify that you've correctly entered your bank account number(s); additionally, provide a physical address, as P.O. Boxes are not accepted, and upload an address verification document, like a utility bill issued within the last 6 months, and be sure to include your \"Doing Business As\" name, select your Business Type from the dropdown menu, and add a short description of your products/services, plus upload a color copy of your photo ID and a bank statement, then allow up to 7 business days for the account to be verified; if it has been longer than 7 business days, and you have verified that the information is correct and matches your bank account details, you can contact Wix Customer Care for further investigation.",
+    "article_ids": [
+      "49d9e88fadbf11fa4e685c847590078ff9394c2fe7566094f504f53ca4aca465"
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "Do I need to submit more information for my Wix Payments business account verification?",
+    "answer": "To fully activate your Wix Payments business account, you will need to submit certain details for verification, and this process is initiated once you've accepted your first payment, so you may be prompted to add information such as a color copy of your photo ID and a bank statement to your Wix Payments dashboard. Additionally, you will need to ensure that you've accurately entered all your personal and company information, that your company's registration and tax ID matches the registered information, and that the Doing Business As name matches what appears on your customers' statements. You'll also need to provide a physical address (no P.O. boxes), an address verification document like a utility bill issued within the last 6 months, confirmation that the legal business name and tax IDs match your business bank account, and a document proving the validity and ownership of those tax IDs. Lastly, you'll need to add a business description, including selecting your business type and providing a short description of your products or services.",
+    "article_ids": [
+      "49d9e88fadbf11fa4e685c847590078ff9394c2fe7566094f504f53ca4aca465"
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "I forgot to renew my Premium Business plan, and now the subscription has disappeared from my account. I want to buy a new Premium plan for my site; how do I do that?",
+    "answer": "Hey there! I can certainly help you with that. According to the reference material, if your Premium or Studio site plan was canceled due to payment issues, you can purchase a new plan by simply upgrading the site again. Also, if you are having trouble repurchasing a site plan after cancellation, you can unassign the canceled plan from your site and try to upgrade again.",
+    "article_ids": [
+      "42494683352ccb36b16ef52dc0b32ff1aab64f5f3a6fe90827c33e0252a59098",
+      "ac52db95f0cfec00e71b43d37c7428fb694f9bc262cd7f2770fe661de581c8be",
+      "89e39fdcca5874eb36d1ac6e359aad2cd93b601cac1cf7b8743449ff7893ead8"
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "What steps can I take to recover deleted products?",
+    "answer": "Unfortunately, if you've deleted a product from Wix Stores, it is not possible to restore it, however, if you want to temporarily remove products from your store, you can hide them.",
+    "article_ids": [
+      "0d6bacf2646098a55162336b12fc8eeb56c6618febc7ad94a9c7d5d9bb71ba3f",
+      "45308e75f1e6097bd6d3fd463679e6f444419e88c7cd310e9d8de440aabaa551",
+      "f353775648c196649a0cf3bf26ddea340192587efe7c0813b798325f1c412d9f",
+      "e4b87cd9f38d652e0a018619be5ab7f6065f07e1bd2556d629fb34e693feff91",
+      "568140964e5e7c1628d295e9991367ed4d3c2090a79105d435231030b620a506"
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "What steps should I follow to recover the selected projects in my Wix collection?",
+    "answer": "To restore the selected projects in your Wix collection, you should first navigate to CMS in your site's dashboard, then click \"More Actions\" at the top, and then click \"Backups\". Next, click \"Restore\" next to the backup you want to restore, click the checkbox next to each collection you want to restore, and then click \"Restore [#] Collections\". Finally, click \"Yes, I am sure\" to confirm that you want to permanently override changes made after the backup creation date, and then click \"Restore\".",
+    "article_ids": [
+      "0d6bacf2646098a55162336b12fc8eeb56c6618febc7ad94a9c7d5d9bb71ba3f",
+      "13ae20110f373b7614a4594a0b47cd190eaecba13c74138551ee24f682b43f08"
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "What�s the process for automating a birthday email to clients that offers a free class?",
+    "answer": "I am sorry, but this document does not contain the answer to your question.",
+    "article_ids": [
+      "9b19fff16487d6d81f188358b3be7959490e4d7291d43c35a71c5bb8b86814bc"
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "How can I change my business structure from a sole proprietorship to an LLC so I can use an EIN",
+    "answer": "I can help with that! According to the reference passage, to change your business structure from a sole proprietorship to an LLC, you would select the option that says \"Partnership/LLC/Corporation/NGO\" if you are doing business as a business entity. You will be required to provide your legal business name, your Doing Business As name, your company registration number/ business number/Employer Identification Number (EIN)/ Unique Taxpayer Reference (UTR) number (if applicable), your VAT/tax number, and upload a company registration document to help verify your business.",
+    "article_ids": [
+      "11e6ff65a8bb2f65b29f9d2726561da8f5de81543fe3000fe40668f383c88489"
+    ]
+  },
+  {
+    "question_id": 21,
+    "question": "How can I temporarily hide the quick action button from the mobile view since it hasn�t been configured yet?",
+    "answer": "Unfortunately, according to the reference material, once Wix Chat has been added to your desktop site, it is automatically added to the Quick Action Bar on your mobile site, and it is not currently possible to remove or hide it from the Quick Action Bar while keeping it on your desktop site.",
+    "article_ids": [
+      "8eb9087663e148864e022b06c70b4c81bda356bdf88cc2ba28dcf874ceff1d2c",
+      "50ebe0e45c4c6d2eef8aa22e35d3b47a02d9798e4868cec0551ab2c1f52ba9a4",
+      "bce5e3d829fe6eebd5fb2585b008cac096b48072d7cc5971ff31e72941fef5ae",
+      "82e09fe1f4ab70ddd74290b51b6f3182ea71e460664d48ba6d550961e312bfd8"
+    ]
+  },
+  {
+    "question_id": 22,
+    "question": "I need to track the status of chargeback #1124381935-1.",
+    "answer": "You can easily keep tabs on the status of your chargeback right from your Wix Payments dashboard! Just head over to your dashboard, find the payment in question, and you'll see the status listed right there. The status will tell you if action is needed from you, if the chargeback is about to expire, or if it's already been resolved.",
+    "article_ids": [
+      "a4bf9c1cccd5e7ae04d0fc890eaff145b933ab55a52c6cead06a9cd4caa8b6da"
+    ]
+  },
+  {
+    "question_id": 23,
+    "question": "How can I update the og:image for my entire website to make sure the right image shows up when the link is shared on social media? Also, will this change impact how the image appears in emails or on Instagram?",
+    "answer": "To update the image that appears when your website is shared on social media, you'll want to change the og:image settings. This can be done either for a specific page or for your entire site. To change it for your whole site, go to your site's settings, then click \"Website settings,\" and scroll down to \"General social image\" where you can upload a new image. Remember to save the changes and publish your site afterward. As for whether this change will impact how the image appears in emails or on Instagram, the settings you are changing are directly related to how your content appears when shared on social networks like Facebook, Instagram, and X (Twitter).",
+    "article_ids": [
+      "a64cacf41053234604e05d45255bae13d63974acbfe808ee003ee480107d14d8",
+      "7a2109a7643cefe52eaad4779d868dd6fc845b8ab32bc8f131c4c63d53cb7456"
+    ]
+  },
+  {
+    "question_id": 24,
+    "question": "I received a manual payment through the pay button, but I can't view the payment history. How can I access it?",
+    "answer": "If you're using the manual (offline) payment method, you'll need to mark those payments as \"paid\" before they show up on your payments page, and this can be done for store orders in Wix Stores and services in Wix Bookings.",
+    "article_ids": [
+      "d487a621f0535cd8d7c717d614c18d36b49841066c8dd641967d05be5205b6c9"
+    ]
+  },
+  {
+    "question_id": 25,
+    "question": "What�s the best way to include a personalized name in my automated emails using dynamic values?",
+    "answer": "To include a personalized name in your automated emails, you can use dynamic values, which are placeholders that insert your recipients' personal information, such as their first or last name; to add this to your email's text, first, go to Email Marketing in your sites dashboard, click 'Edit' next to an existing campaign or create a new one, then click any text element or add a new one, click where you want to add the dynamic value, click '+ Add Personalized Content' under Styles, and then select the value from the drop-down menu such as 'contact last name' or 'contact birthday'; also, you can add fallback text so that your recipient won't see a blank space if the data is unavailable.",
+    "article_ids": [
+      "2b832f8ff9989b6dede601a3c6452990cb582aed046dabac16fbc38d73e65ffd",
+      "90eae85f4fbd197949ba2e9df3bf31e05d40e77ffa0aa9022e4b1b0e44e5739a"
+    ]
+  },
+  {
+    "question_id": 26,
+    "question": "How can I add delivery information to my product page?",
+    "answer": "I am sorry, but the provided text does not include any information about adding delivery information to your product page.",
+    "article_ids": [
+      "e4b87cd9f38d652e0a018619be5ab7f6065f07e1bd2556d629fb34e693feff91"
+    ]
+  },
+  {
+    "question_id": 27,
+    "question": "I want to change the currency for my course.",
+    "answer": "I can certainly help you with that! To change the currency for your course, you'll need to go to the Language & Region settings in your site's dashboard. From there, you can click the Currency drop-down menu and select the currency you want to use. Also, it's super important to make sure that your site's currency matches the currency in your payment provider account so you can accept payments without any issues!",
+    "article_ids": [
+      "82691e0d64a4e11e05dd678b1084cb6ee52c32c51c9568adde7853dbfb753ab4",
+      "f971216b06eba45cab4e5bdea5cea4196024af8360a81ed603a36266bbc6f926",
+      "085e4d36ca87e3caa5403c4a9fd6e2e147826bf93f1bb909f23e8f2f0167aab4",
+      "61ffa2b0a7c68212db74fe792ac05131ccc9a4b25309047f15b1d5f6f4bca55e",
+      "ad7a6f1f5851bf2c4bc738d6223bb1546e78c7b7f3317d721b67181cd675c5a8"
+    ]
+  },
+  {
+    "question_id": 28,
+    "question": "How can I set the header background to turn black while scrolling in the Wix Editor?",
+    "answer": "To set the header background to turn black while scrolling in the Wix Editor, first, select the header, then click the Open Inspector icon at the top right of the editor, then under Design, enable the Color while scrolling toggle, and finally, click the color box to choose black.",
+    "article_ids": [
+      "26300cd857c9f66141d42e808c89f5d48534efcfb0c3392eae63a5245df92e8e"
+    ]
+  },
+  {
+    "question_id": 29,
+    "question": "How can I build a custom sign-up form that connects directly to the members area of my website?",
+    "answer": "To build a custom sign-up form that connects directly to the members area of your website, you will first need to make sure that you have a Members Area on your site. Then, in the Pages panel in your editor, go to Signup & Login, then change the default signup form to a custom form. Once you have added the custom form to your site, you can customize it by adding elements, changing and adding form fields, and customizing the design.",
+    "article_ids": [
+      "1609e162350e7c1bb21e17a9e6a3b5e78a34d4dd9ff087188115313cb2d53d86"
+    ]
+  },
+  {
+    "question_id": 30,
+    "question": "I want to customize a booking form.",
+    "answer": "You sure can customize booking forms! To customize the design of your forms: Go to your editor and then Go to your Booking form page, clicking Pages & Menu on the left side of the editor and then Bookings Pages, and finally the Booking form page. Click the Booking form element on your page and then click Settings to customize the Layout, Display, Design and Text of your booking forms to suit your site and your brand.",
+    "article_ids": [
+      "869c8a200a23aa567dbb783a8461a4f0857ee2ffeb38b296560268911e83b2cc"
+    ]
+  },
+  {
+    "question_id": 31,
+    "question": "Can you assist me with issuing a refund for a recurring payment a customer made via Wix Payments?",
+    "answer": "Yes, I can certainly help you with that! To refund a customer for a recurring payment made via Wix Payments, you can do so either from your Wix Payments account on your desktop or through the Wix app on your mobile device. On desktop, go to Payments in your site's dashboard, click on the payment to refund, then click Refund, enter the amount and a note (if needed), and click Refund again. On the Wix app, go to Payments, tap on the payment to refund, tap Refund, add a note if you like, enter the amount to refund, and tap Issue Refund twice to confirm. Keep in mind that refunds can take 3-5 business days to reach your customer's credit card or bank account, and once initiated, refunds cannot be canceled.",
+    "article_ids": [
+      "a4bf9c1cccd5e7ae04d0fc890eaff145b933ab55a52c6cead06a9cd4caa8b6da",
+      "8cb92704d3a87aa92be4860f006c3f7a959143b5f8cf4f962940508288b0dc04",
+      "c8a54de5b540e9832be6e6468b5e498d532df9ea6af16ae83fcdcd15647e4c73"
+    ]
+  },
+  {
+    "question_id": 32,
+    "question": "Since my other business is shutting down and no longer generating revenue, I�d like to replace my current premium domain with a new one I�ve already purchased. I haven�t linked the new domain to my Wix account yet, so I need to know if my existing subscription can be smoothly transferred once it�s connected.",
+    "answer": "Yes, your existing premium subscription can be smoothly transferred once the new domain is connected; according to the reference passage, to reassign your Premium plan, you should go to Premium Subscriptions in your Wix account, then click the More Actions icon next to the plan you wish to reassign, then click Assign to a Different Site, select the checkbox next to the relevant site, click Next, and then click Assign to confirm.",
+    "article_ids": [
+      "7f54f872dcefc45fec8d7bcaabce47769bccfd8f4efa5ffe8e8232fe11aa24c0",
+      "89e39fdcca5874eb36d1ac6e359aad2cd93b601cac1cf7b8743449ff7893ead8",
+      "da2dea4c3119a1a60712c89c0a28e6364574434e36bf8a40621a5f4af08da9a8"
+    ]
+  },
+  {
+    "question_id": 33,
+    "question": "How can I replace the home page on my current site with the one from my copy site?",
+    "answer": "If you're using the Wix Editor, you can replace the home page on your current site with the one from your copy site by copying and pasting the page between the two sites, which is a great way to keep a design you like without starting from scratch. First, in the Wix Editor of your copy site, go to the Menus & Pages section on the left side, right-click the home page, and select \"Copy\". Then, open the Editor for your current site, right-click anywhere on the screen, and choose \"Paste\" or \"Paste & Apply Site Theme\" to use the current site's colors and fonts. Lastly, rename the pasted page to \"Home\" in the Pages panel. Keep in mind that only regular pages can be copied, not anchors, links, folders, or pages from third-party apps.",
+    "article_ids": [
+      "a58c7cf097e081353986990a4ed90f8045245be5295358d7e81a7475f1204e09"
+    ]
+  },
+  {
+    "question_id": 34,
+    "question": "I want to transfer my domain to another host.",
+    "answer": "Yes, you can transfer a domain purchased from Wix to another domain host; when you transfer your domain away from Wix, your domain's contact information, DNS settings, and renewal payments are all managed in your new provider's account. It is recommended to keep your domain with Wix as your host because if you transfer your domain away, your Wix site is disconnected, and Wix is no longer able to assist with managing your domain. To transfer your domain, go to Domains in your Wix account, then click the Domain Actions icon next to the relevant domain, and select Transfer away from Wix; after reviewing the information about transferring your domain, click Transfer Domain, then click I Still Want to Transfer; Wix will send a transfer authorization code (EPP code) to your domain's registrant contact email address; once you get the code, follow the instructions from your new domain host to transfer your domain.",
+    "article_ids": [
+      "5097c7944bbd290a11bf9dbf7624d475139d109ed0b33bc0449f53e8583be1f3"
+    ]
+  },
+  {
+    "question_id": 35,
+    "question": "I want to unfreeze the header on my Wix site.",
+    "answer": "Of course! If you want to unfreeze the header on your Wix site, which is the section at the top of your website that usually contains your site's menu and logo, here's what you should do: First, click the header, then click the More Actions icon, and after that, click Header Scroll Settings. Finally, you can select a different scroll setting, like \"Scrolls with site\" which means your header moves up and down with the page.",
+    "article_ids": [
+      "83dafaa7fb8598367f32ef2d9fb39c1aa49650ca2f64f1509f7823fc117b664a"
+    ]
+  },
+  {
+    "question_id": 36,
+    "question": "\"How can I change the image that shows up when I share my website link through the editor?",
+    "answer": "To change the image that shows up when you share your website link, you'll need to adjust the og:image settings, which are used by social networks to display information when a page is shared. You can set a unique image for each page or use one image for the entire site. For an individual page, go to Pages & Menu in the Editor menu, click the relevant page, select More Actions, and then Social Share, where you can upload or select an image. For the whole site, open your site's settings, go to Website settings, scroll to General social image, and upload or select an image there. Also, the image should have an aspect ratio of 1.91:1 to avoid cropping issues.",
+    "article_ids": [
+      "a64cacf41053234604e05d45255bae13d63974acbfe808ee003ee480107d14d8",
+      "7a2109a7643cefe52eaad4779d868dd6fc845b8ab32bc8f131c4c63d53cb7456"
+    ]
+  },
+  {
+    "question_id": 37,
+    "question": "I would like to change my billing cycle from 2 years to monthly payments.",
+    "answer": "Yes, you can definitely switch to a monthly billing cycle! To do this, go to Premium Subscriptions in your Wix account, then click the \"More Actions\" icon next to your plan, and select \"Change Billing Cycle\". From there, you can select a monthly billing cycle and confirm your new billing information. Keep in mind that the change will take effect at the end of your current billing cycle.",
+    "article_ids": [
+      "ac52db95f0cfec00e71b43d37c7428fb694f9bc262cd7f2770fe661de581c8be",
+      "c5d82d4a0741f072da98db371148bfb349e37561fd94b32c1326dd77d44a4ca0"
+    ]
+  },
+  {
+    "question_id": 38,
+    "question": "How can I download the website traffic reports covering the period from December 15 to January 15?",
+    "answer": "I would love to help, but the reference text does not specify a date range when downloading reports. However, to download a report, you must go to All Reports in your site's dashboard, then select the report you want. Next, click the Download drop-down at the top right corner and select your preferred file format (Excel, CSV, or Image).",
+    "article_ids": [
+      "44ac80104f2840a040407f38c3c6ed70d6b93277419d8a5b16d34d60ed86423b"
+    ]
+  },
+  {
+    "question_id": 39,
+    "question": "Can you tell me how many variations Wix allows for each product?",
+    "answer": "Wix Stores allows quite a few options, so let's break it down! You can have up to 6 different product options for each product. For example, these could be color, size, or material. Then, each of those options can have up to 100 choices. So, if you're selling shirts, you could have \"color\" as an option, and then offer 100 different colors! In the end, you can create up to 1,000 different combinations (variants) for each product.",
+    "article_ids": [
+      "979c6547854102876ed45799be73f2318ec3d52c2705586f883e9d5f9b204a15",
+      "80f713366c2599da0c718797a8174799885289c8c050fccccb21442a90f0c03a"
+    ]
+  },
+  {
+    "question_id": 40,
+    "question": "How many websites am I allowed to create?",
+    "answer": "With Wix, you can create as many sites as you need to manage multiple businesses, separate your personal site or blog, or experiment with different designs; if you reach the limit of free sites you can have within your account, you can move old sites to trash or upgrade your sites to Premium.",
+    "article_ids": [
+      "78dc0abf7cd09064c04990aea88a340dffa118def85ee43bf18ec4eb315d47fe"
+    ]
+  },
+  {
+    "question_id": 41,
+    "question": "How can I add a policy agreement checkbox to the checkout process in Wix Stores?",
+    "answer": "To add a policy agreement checkbox to the checkout process in Wix Stores, go to Checkout settings in your site's dashboard, and then click on \"Policies.\" Next, select the checkbox next to the policies you want to display and enter the policy text. To make agreeing to these policies mandatory, click the \"Policy agreement checkbox\" toggle to enable it. If you want the agreement to be checked by default, you can also select the \"Checked by default\" checkbox.",
+    "article_ids": [
+      "fee90bfe3add5c0b9da4bf8c8c34b2d0ef79e802d7b8410b961c46df370ce336",
+      "24855adcdbccf625ff56d2f28a796ba54e56a3b4b8258fd08c77cf03aff2ee6f",
+      "2dc662f80a2af9aa209981a6aba1962f140573cba262184f4240b67a1d26772a"
+    ]
+  },
+  {
+    "question_id": 42,
+    "question": "How can I view the items my customers added to their carts and track how those items were sold?",
+    "answer": "To keep track of items in your customer's carts and monitor which items have a high abandonment rate, you can use the \"Most Abandoned Products\" report, which shows you the products that visitors placed in a cart but didn't purchase; additionally, to find out how many of your visitor's carts were abandoned, and how many were eventually recovered, you can use the \"Abandoned Carts Funnel\" report.",
+    "article_ids": [
+      "33dfa4eb3abc1c459f4b8f24cb14757f39c1b9c7c13f598cf904b9d395cc6970"
+    ]
+  },
+  {
+    "question_id": 43,
+    "question": "What is the price for a single Business Starter email account on Google Workspace?",
+    "answer": "I can certainly help you with that! According to the reference material, the price of a business email depends on a few factors, including the Google Workspace plan you choose, so I am unable to give you a specific price for a single Business Starter email account.",
+    "article_ids": [
+      "bb528ecfbf28534c702f7e30e97e1709741bb421299f376de6cb2bc8d8226fc4"
+    ]
+  },
+  {
+    "question_id": 44,
+    "question": "I would like to unpublish my site.",
+    "answer": "If you no longer want your site to be available to the public, you can definitely unpublish your site, either temporarily or permanently. You can do this from the editor or from your site's dashboard. To unpublish from the Wix Editor, open your site in the Wix Editor, select \"Site\" in the top toolbar, click \"Unpublish Site\", and then click \"Unpublish\" in the pop-up to confirm. To unpublish from your site's dashboard, go to \"Settings\" in your site's dashboard, click \"Website settings\", click \"Unpublish\" at the top of the page, and then click \"Unpublish\" in the pop-up to confirm. After unpublishing, you'll still have access to your site's editor, and you can publish it again at any time. It's important to note that unpublishing your site does not cancel your domain or Premium plan.",
+    "article_ids": [
+      "0cb65c6c64d2b1d3c54f04b08cd7c801334d1984fc5f07e6e1396b12fb9e1a08"
+    ]
+  },
+  {
+    "question_id": 45,
+    "question": "I would like to view my invoices.",
+    "answer": "Sure, I can help with that! You can view invoices for payments made to Wix for site plans and other Wix services on the Billing History page. You can also update the information on your invoices, such as the address, company name, and VAT ID.",
+    "article_ids": [
+      "040613a5d53923efc2955eb8cfaf4573d7543dd0236bf90be63e40613359e4cf"
+    ]
+  },
+  {
+    "question_id": 46,
+    "question": "I'm working on redesigning the product page in my Wix Store and need help customizing the layout, image presentation, and button text.",
+    "answer": "Absolutely, I can help you with that! To customize the layout and image display of your Wix Store product page, first, go to your editor and click on \"Pages & Menu\" on the left side, then click \"Store Pages\" and select \"Product Page.\" Next, click on the product page element on your page to access the settings.\n\nTo customize the layout, you can click the \"Layout\" tab and select the best product page layout for your store, also select how you want image thumbnails to display under \"Show thumbnails,\" and choose an image ratio from the \"Image ratio\" drop-down. You can also choose how the image is resized, either by cropping all images to the same size or by maintaining the image's aspect ratio.\n\nTo customize the button text, click the \"Settings\" tab to select the elements you want to show or hide on the product page and customize the buttons. From here, you can customize the \"Add to Cart\" button and enable the wishlist icon and \"Buy Now\" button.",
+    "article_ids": [
+      "e4b87cd9f38d652e0a018619be5ab7f6065f07e1bd2556d629fb34e693feff91"
+    ]
+  },
+  {
+    "question_id": 47,
+    "question": "How can I customize my wishlist page?",
+    "answer": "You sure can customize your wishlist page! First, you'll need to access the \"My Wishlist\" page through the editor. Then, depending on which editor you are using, you can click around in the settings to customize the page using the available options. For example, in the Wix Editor, you can click Pages and Menu on the left side, then click Members Area, and then click the My Wishlist page. Once there, click Settings to customize it. In Editor X, you can click Pages at the top, then Members Page, then the Member Menu, and then Manage and Navigate. Select My Wishlist, click the My Wishlist page in the Editor, and then click Settings to customize. You can even add an \"Add to Cart\" button to the wishlist page to make it easier for your customers to make purchases!",
+    "article_ids": [
+      "13b7554664bd39da1825c1d396cefbb0afd2d9989c1a15659dd158b0a46b916c"
+    ]
+  },
+  {
+    "question_id": 48,
+    "question": "I'd like to customize how my products are arranged and displayed within a grid gallery.",
+    "answer": "You sure can! To customize a Grid Gallery, first, go to the page in the editor containing the gallery you want to customize, then click the gallery and then click the Settings icon. After that, you can choose which settings you want to customize, such as which products are shown, what you want to display, scroll behavior, image hover effect, the layout, and the design.",
+    "article_ids": [
+      "1c468e44c3b2e17cc74bea4b83e6037bfd26c1b527d04f9641dd61c8fe54f551"
+    ]
+  },
+  {
+    "question_id": 49,
+    "question": "As a sole trader based in the UK, which account type would be most suitable for my needs?",
+    "answer": "For a sole trader based in the UK, the most suitable account type would be the \"Sole Proprietor (United Kingdom)\" account. To set up this account, you'll need your legal business name, company registration/Unique Taxpayer Reference (UTR) number, and a \"Doing Business As\" name (how your business appears on customer statements). You'll also need to upload a company registration document, provide a business description, address details, business owner details, and your business bank account details (sort code and account number), along with a bank statement.",
+    "article_ids": [
+      "11e6ff65a8bb2f65b29f9d2726561da8f5de81543fe3000fe40668f383c88489"
+    ]
+  }
+]
